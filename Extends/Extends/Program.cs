@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EmoInheritanceClass;
+using System;
 
 namespace Childs
 {
@@ -6,7 +7,6 @@ namespace Childs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
