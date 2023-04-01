@@ -37,6 +37,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimpleExtends", "SimpleExte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleExtends", "SimpleExtends\SimpleExtends\SimpleExtends.csproj", "{228FDB56-1DD8-4A23-BC7D-7AA405FDEEF0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Operators", "Operators", "{C41BC91B-FE9A-4206-8864-88BE16F1F8F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators\Operators.csproj", "{930CD9F0-9F90-4EDD-97E5-ED94D6C3556D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +75,10 @@ Global
 		{228FDB56-1DD8-4A23-BC7D-7AA405FDEEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{228FDB56-1DD8-4A23-BC7D-7AA405FDEEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{228FDB56-1DD8-4A23-BC7D-7AA405FDEEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930CD9F0-9F90-4EDD-97E5-ED94D6C3556D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930CD9F0-9F90-4EDD-97E5-ED94D6C3556D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930CD9F0-9F90-4EDD-97E5-ED94D6C3556D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930CD9F0-9F90-4EDD-97E5-ED94D6C3556D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +91,7 @@ Global
 		{F880EFEF-12FE-4801-A94B-3B59C786EF69} = {0D2F2B34-00AF-4FA1-AD50-AB30A29CEBF8}
 		{21804834-679C-4219-A59E-A3A51F78DC81} = {DC6ED216-2099-4D0C-A622-3979333244F8}
 		{228FDB56-1DD8-4A23-BC7D-7AA405FDEEF0} = {7A778C07-50A4-4758-A6AF-47F22EFA7592}
+		{930CD9F0-9F90-4EDD-97E5-ED94D6C3556D} = {C41BC91B-FE9A-4206-8864-88BE16F1F8F1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC189DF6-302A-406A-B61F-30B2DF9FAF68}

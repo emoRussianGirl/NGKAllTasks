@@ -21,7 +21,7 @@ namespace EmoClasses
 
             child2.show();
             child2.show2();
-
+            
             child3.show();
             child3.show2();
            Console.ReadKey();
