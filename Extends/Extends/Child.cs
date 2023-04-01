@@ -11,6 +11,9 @@ namespace EmoInheritanceClass
         public override void BubbleSort()
         {
             Array.Sort(base.Nums);
+
+            MaxEl = Nums[Nums.Length - 1];
+            MaxElIndex = Nums.Length - 1;
         }
 
         new public string Max()

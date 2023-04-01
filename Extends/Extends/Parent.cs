@@ -49,6 +49,9 @@ namespace EmoInheritanceClass
                     }
                 }
             }
+
+            MaxEl = Nums[Nums.Length - 1];
+            MaxElIndex = Nums.Length - 1;
         }
 
         public virtual int Max()
